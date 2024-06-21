@@ -48,7 +48,7 @@ className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] '
 
 I am Ifza Yousaf, a software
 engineering student with a focus
-on web development. Currently
+on Mern Stack Development. Currently
 pursuing my degree at the
 University of Agriculture,
 Faisalabad.I'm a quick learner and collaborations closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!

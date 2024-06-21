@@ -27,7 +27,7 @@ ${styles.paddingX} w-full flex items-center py-5 fixed top-0 z-20 bg-primary`}>
           <img src={logo} alt="logo"
             className='w-9 h-9 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex'>Ifza &nbsp;
-          <span className='sm:block hidden'>| Web Development</span></p>
+          <span className='sm:block hidden'>| Mern Stack Development</span></p>
         </Link>
         <ul className='list-none hidden sm:flex flex-row gap-10'>
           {navLinks.map((Link) => (

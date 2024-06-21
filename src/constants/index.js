@@ -42,7 +42,7 @@ import {
   
   const services = [
     {
-      title: "Web Development",
+      title: "Mern Stack Development",
       icon: web,
     },
     {
@@ -130,7 +130,7 @@ import {
       ],
     },
     {
-      title: "Web Development Course Experience",
+      title: "Mern Stack Development Course Experience",
       company_name: "Sylani Welfare",
       icon: tesla,
       iconBg: "#E6DEDD",
